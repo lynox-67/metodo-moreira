@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/crEqG7CBLwYXrMKD/raw", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Spv-Script/auto/refs/heads/main/Moreira'))()
